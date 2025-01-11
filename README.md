@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://vishwendra-portfolio.vercel.app" target="_blank">mvc.tech</a>
+  <a href="https://vishwendra-portfolio.vercel.app/" target="_blank">mvc.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/vish_img.png" />
@@ -16,7 +16,7 @@ Feel free to fork this repository to customize and personalize it for your own u
 
 ## Built With
 
-This meticulously crafted personal portfolio, available at <a href="https://vishwendra-portfolio.vercel.app" target="_blank">mvc.tech</a>, serves as an elegant showcase of my GitHub projects, comprehensive resume, and technical acumen. The following technologies were employed in its creation:
+This meticulously crafted personal portfolio, available at <a href="https://vishwendra-portfolio.vercel.app/" target="_blank">mvc.tech</a>, serves as an elegant showcase of my GitHub projects, comprehensive resume, and technical acumen. The following technologies were employed in its creation:
 
 - React.js
 - Node.js
