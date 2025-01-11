@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvrx.tech</a>
+  <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvc.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/vish_img.png" />
@@ -18,20 +18,16 @@
 
 </center>
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/monk0707/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/monk0707/Portfolio/issues">Request Feature</a>
-</h3>
+
 
 ## TL;DR
 
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [monk0707](https://github.com/monk0707/Portfolio). Thanks!
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [vishwendra](https://github.com/vishwendra04/Vishwendra-Portfolio). Thanks!
 
 ## Built With
 
-My personal portfolio <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvrx.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+<!-- My personal portfolio <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvc.tech</a> which features some of my github projects as well as my resume and technical skills.<br/> -->
+My personal portfolio, accessible at <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvc.tech</a>, meticulously showcases a curated selection of my GitHub projects, along with a comprehensive overview of my resume and technical expertise.
 
 This project was built using these technologies.
 
