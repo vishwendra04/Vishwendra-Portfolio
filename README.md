@@ -74,3 +74,8 @@ You will find all the components used and you can edit your information accordin
 Give a ⭐ if you like this website!
 
 <a href="https://www.buymeacoffee.com/monk0707" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+
+---
+
+# Vishwendra-Portfolio
+This repository showcases my journey as a developer, highlighting my skills in MERN stack, C++, and Python. It features full-stack projects, responsive designs, and innovative solutions, emphasizing problem-solving, continuous learning, and a passion for building impactful applications.
