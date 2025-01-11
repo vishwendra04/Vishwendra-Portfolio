@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvc.tech</a>
+  <a href="https://vishwendra-portfolio.vercel.app/resume" target="_blank">mvc.tech</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/vish_img.png" />
@@ -27,7 +27,7 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 ## Built With
 
 <!-- My personal portfolio <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvc.tech</a> which features some of my github projects as well as my resume and technical skills.<br/> -->
-My personal portfolio, accessible at <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvc.tech</a>, meticulously showcases a curated selection of my GitHub projects, along with a comprehensive overview of my resume and technical expertise.
+My personal portfolio, accessible at <a href="https://vishwendra-portfolio.vercel.app/resume" target="_blank">mvc.tech</a>, meticulously showcases a curated selection of my GitHub projects, along with a comprehensive overview of my resume and technical expertise.
 
 This project was built using these technologies.
 
@@ -56,7 +56,7 @@ Clone down this repository. You will need `node.js` and `git` installed globally
 
 2. In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
@@ -65,11 +65,7 @@ The page will reload if you make edits.
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
 
-### Show your support
 
-Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/monk0707" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
 
 ---
 
