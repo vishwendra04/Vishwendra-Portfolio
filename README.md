@@ -3,7 +3,7 @@
   <a href="https://portfolio-monk0707s-projects.vercel.app/" target="_blank">mvrx.tech</a>
 </h2>
 <div align="center">
-  <img alt="Demo" src="./Images/portfolioHomeImg.png" />
+  <img alt="Demo" src="./Images/vish_img.png" />
 </div>
 
 <br/>
